@@ -1,4 +1,4 @@
-Расширение добавляет возможность указать атрибуты ALT и TITLE для изображений товара.
+The extension adds the ability to specify ALT and TITLE attributes for product images.
 
-ПЛАНЫ: 
-Реализовать ALT + TITLE для главного изображения.
+PLANS:
+Implement ALT + TITLE for the main image. 
